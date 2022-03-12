@@ -8,7 +8,7 @@ O objetivo é estimar o valor da frequência fundamental para dois áudios, tamb
 
 - [Ygor W. S. Moreira Lima](https://www.github.com/ygordev)
 
-## Referência
+## Referências
 
  - [libRosa](https://librosa.org/doc/0.8.1/generated/librosa.pyin.html?highlight=fundamental)
  - [PYIN: A fundamental frequency estimator using probabilistic threshold distributions](https://ieeexplore.ieee.org/document/6853678)
