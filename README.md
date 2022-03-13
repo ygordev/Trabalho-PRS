@@ -8,6 +8,9 @@ O objetivo é estimar o valor da frequência fundamental para dois áudios, tamb
 
 - [Ygor W. S. Moreira Lima](https://www.github.com/ygordev)
 
+## Jupyter Notebook
+- [Link aqui](https://github.com/ygordev/Trabalho-PRS/blob/main/Trabalho_PRS.ipynb)
+
 ## Referências
 
  - [libRosa](https://librosa.org/doc/0.8.1/generated/librosa.pyin.html?highlight=fundamental)
